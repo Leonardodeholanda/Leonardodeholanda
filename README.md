@@ -4,7 +4,7 @@
 **Leonardodeholanda/Leonardodeholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hi, please call me Leo.<br>
-<p>As a highly motivated developer, I am passionate about coding, learningn and creating. I am willing to staying up-to-date with the latest technologies and industry best practices, and am always eager to expand my skillset to achieve mutual growth.</p> 
+<p>As a highly motivated developer, I am passionate about coding, learning, and creating. I am willing to staying up-to-date with the latest technologies and industry best practices, and i am always eager to expand my skillset to achieve mutual growth.</p> 
 <p>In addition to my technical abilities, I excel at working collaboratively with teams and communicating effectively with individuals from diverse backgrounds. I am committed to utilizing my skills and passion for coding to make meaningful contributions to any project or organization I work with.</>
   <br><br>
 Contact me:
