@@ -4,7 +4,7 @@
 **Leonardodeholanda/Leonardodeholanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hi, please call me Leo.<br>
-<p>As a highly motivated developer, I am passionate about coding, learning, and creating. I am willing to staying up-to-date with the latest technologies and industry best practices, and i am always eager to expand my skillset to achieve mutual growth.</p> 
+<p>As a highly motivated developer, I am passionate about coding, learning, and creating. I am willing to stay up-to-date with the latest technologies and industry best practices, and i am always eager to expand my skill set to achieve mutual growth.</p> 
 <p>In addition to my technical abilities, I excel at working collaboratively with teams and communicating effectively with individuals from diverse backgrounds. I am committed to utilizing my skills and passion for coding to make meaningful contributions to any project or organization I work with.</>
   <br><br>
 Contact me:
@@ -28,6 +28,7 @@ Contact me:
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json-logo"/>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint-logo"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="pretier-logo"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss-logo"/>
   </div>
   <br>
 <div>
